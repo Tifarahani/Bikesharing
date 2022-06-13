@@ -17,22 +17,26 @@ This project is a visualization of New York Citi Bike data (August 2019) in orde
 
 ### Activity during the day
 
-![preview](src/img/week_activity.png)
+![preview](https://github.com/Tifarahani/Bikesharing/blob/main/Img/week_activity.png)
 
 - Highest activity hours are from 6AM to 8AM and 5:00 PM to 7:00 PM and require the most resources mobilized to manage bikes and client customer.
 - During the weekend, the activity seems slower, but steady.
 
 ### Activity duration
 
-![preview](src/img/trip_time.png)
+![preview](https://github.com/Tifarahani/Bikesharing/blob/main/Img/trip_time.png)
 
 - No matter the day or the gender, a bike trip is almost always below 30 minutes and do not go over 45 minutes often.
 
 ### Location matter
 
-![preview](src/img/trip_area.png)
+![preview](https://github.com/Tifarahani/Bikesharing/blob/main/Img/trip_area.png)
 
 - Most ride start locations are in the touristic or business areas on the island of NYC.
+
+
+![preview](https://github.com/Tifarahani/Bikesharing/blob/main/Img/client_type.png)
+
 
 
 ### Further analysis:
