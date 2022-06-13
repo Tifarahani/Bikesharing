@@ -7,20 +7,9 @@
 
 This project is a visualization of New York Citi Bike data (August 2019) in order to explore the viability of a bike-sharing business.
 
-### Deployed Interactive Interface - Tableau Public
-
-> https://public.tableau.com/profile/pierre.olivier.boisvert#!/vizhome/Challenge_16174085472930/NYCCitibike
-
-## Resources
-
-- Dataset: 201908-citibike-tripdata.csv.zip (https://s3.amazonaws.com/tripdata/index.html)
-- Software: Python 3.8.5, Anaconda Navigator 1.10.0 Tableau Public 2021.1.0
-
-## Results
-
 ### Activity during the month
 
-![preview](src/img/trip_time.png)
+![preview](https://github.com/Tifarahani/Bikesharing/blob/main/Img/trip_time.png)
 
 - There were over 2.3 million rides for the month of August 2019.
 - During the week users are subscribers and during the weekend customer like to use the bike sharing service.
@@ -111,3 +100,4 @@ Using Tableau, we created visualizations that shows:
 #### Resources:
 - Pandas
 - Tableau
+- Dataset: 201908-citibike-tripdata.csv.zip (https://s3.amazonaws.com/tripdata/index.html)
