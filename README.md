@@ -9,7 +9,9 @@ This project is a visualization of New York Citi Bike data (August 2019) in orde
 
 ### Activity during the month
 
-![preview](https://github.com/Tifarahani/Bikesharing/blob/main/Img/1.png)
+<p align="center">  
+<img src="https://github.com/Tifarahani/Bikesharing/blob/main/Img/1.png"  width="90%" height="90%">
+</p>
 
 - There were over 2.3 million rides for the month of August 2019.
 - During the week users are subscribers and during the weekend customer like to use the bike sharing service.
