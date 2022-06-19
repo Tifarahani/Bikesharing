@@ -17,20 +17,20 @@ This project is a visualization of New York Citi Bike data (August 2019) in orde
 - During the week users are subscribers and during the weekend customer like to use the bike sharing service.
 - There is a wide range of the age of the users. Male tend to use the serivce more often than women and the aveerage trip is below 30 minutes.
 
-### Activity during the day
+### 
 
 ![preview](https://github.com/Tifarahani/Bikesharing/blob/main/Img/2.png)
 
 - Highest activity hours are from 6AM to 8AM and 5:00 PM to 7:00 PM and require the most resources mobilized to manage bikes and client customer.
 - During the weekend, the activity seems slower, but steady.
 
-### Activity duration
+### 
 
 ![preview](https://github.com/Tifarahani/Bikesharing/blob/main/Img/3.png)
 
 - No matter the day or the gender, a bike trip is almost always below 30 minutes and do not go over 45 minutes often.
 
-### Location matter
+### 
 
 ![preview](https://github.com/Tifarahani/Bikesharing/blob/main/Img/4.png)
 
