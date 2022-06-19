@@ -24,18 +24,22 @@ This project is a visualization of New York Citi Bike data (August 2019) in orde
 
 ### Activity duration
 
-![preview](https://github.com/Tifarahani/Bikesharing/blob/main/Img/trip_time.png)
+![preview](https://github.com/Tifarahani/Bikesharing/blob/main/Img/3.png)
 
 - No matter the day or the gender, a bike trip is almost always below 30 minutes and do not go over 45 minutes often.
 
 ### Location matter
 
-![preview](https://github.com/Tifarahani/Bikesharing/blob/main/Img/trip_area.png)
+![preview](https://github.com/Tifarahani/Bikesharing/blob/main/Img/4.png)
 
 - Most ride start locations are in the touristic or business areas on the island of NYC.
 
 
-![preview](https://github.com/Tifarahani/Bikesharing/blob/main/Img/client_type.png)
+![preview](https://github.com/Tifarahani/Bikesharing/blob/main/Img/5.png)
+
+![preview](https://github.com/Tifarahani/Bikesharing/blob/main/Img/6.png)
+
+![preview](https://github.com/Tifarahani/Bikesharing/blob/main/Img/7.png)
 
 #### Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
 
